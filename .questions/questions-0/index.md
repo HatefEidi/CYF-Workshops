@@ -4,4 +4,4 @@ A: {A Read-Eval-Print Loop (REPL) is an interactive interpreter to a programming
 
  A: We can import the REPL in a JavaScript file using repl . Run the file in the command line. You can pass a string which shows when the REPL starts.
 
-//Remember to commit and push when you're finished!
+Remember to commit and push when you're finished!
