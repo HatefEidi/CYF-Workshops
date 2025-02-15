@@ -6,8 +6,10 @@ function convertToPercentage(decimalNumber) {
 }
 
 function writeRatioWithPercentage(ratio) {
-  const firstPart = Number(ratio[0]);
-  const secondPart = Number(ratio[2]);
+  const ratioArray = ratio.split(":");
+  const firstPart = Number(ratioArray[0]);
+  const secondPart = Number(ratioArray[1]);
+
   const allParts = firstPart + secondPart;
 
   const firstPartPercentage = convertToPercentage(firstPart / allParts);
@@ -15,5 +17,7 @@ function writeRatioWithPercentage(ratio) {
   return `${firstPartPercentage} : ${secondPartPercentage}`;
 }
 
-const input = "2:3";
+const input = "20979:39879";
 console.log(writeRatioWithPercentage(input));
+
+

@@ -1,0 +1,15 @@
+The Console for line 8 of example-0:
+area is 200
+line 13: the height is now 13
+and the length is 100 
+In line 17 the area is 1300
+
+
+Example-1:
+in line 14: x is 11
+in line 15: y is 28 
+in line 16: 39
+
+
+
+Example-2: line 18: The first character in the alphabet is a, and in line 19 the last char in the alphabet is z

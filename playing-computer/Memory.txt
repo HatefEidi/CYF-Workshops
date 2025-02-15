@@ -1,0 +1,14 @@
+This is the memory of the example-0:
+area is line 7 is 200 (20 *10) 
+Second height in line 10 is 13 and length is 100 in line 11
+the socond area which takes the second height and length multiplied is 1300
+
+
+
+Example-1, global frame: the latest value of x is going to be 11, and y is 28, 
+
+
+Example-2: Global-Frame: alphabet=atoz, fistChar=a ,lastChar=z     --     Local-Frame(getLastChar()):lastCharIndex
+
+
+Example-3: Global-Frame: input=2:3 (string)         --          Local-Frame: convertToPercentage- percentage,  writeRatioWithPercentage- firstPart-secondPart-allParts-firstPercentage-secondPercentage  
