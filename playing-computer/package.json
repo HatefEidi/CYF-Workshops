@@ -1,0 +1,14 @@
+{
+  "name": "playing-computer",
+  "version": "1.0.0",
+  "description": "This is going to calculate the ratio in percentage",
+  "main": "example-3.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "~29.7.0"
+  },
+  "author": "Hati",
+  "license": "ISC"
+}

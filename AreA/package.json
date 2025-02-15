@@ -1,0 +1,14 @@
+{
+  "name": "area",
+  "version": "1.0.0",
+  "description": "This is going to be calculating the area of different shapes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "~29.7.0"
+  },
+  "author": "Hatef Eidi",
+  "license": "ISC"
+}
