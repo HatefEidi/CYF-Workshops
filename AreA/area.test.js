@@ -17,3 +17,4 @@ test("A circle with radius 1 has an area of 1", () => {
 test("A triangle with base and height of two has an area of 2", () => {
 expect(area("triangle",2, 2)).toBe(2);
 });
+
