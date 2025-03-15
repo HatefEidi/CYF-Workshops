@@ -5,3 +5,4 @@ node_modules
 resources/
 build/
 dist/
+.qodo
